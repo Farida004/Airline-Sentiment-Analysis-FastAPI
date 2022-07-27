@@ -1,2 +1,11 @@
 fastapi
 uvicorn
+numpy
+pandas
+matplotlib.pyplot
+pickle
+re
+nltk
+wordcloud
+nltk
+scikit-learn
